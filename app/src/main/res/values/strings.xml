@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">paging-hilt</string>
+    <string name="retry">Retry</string>
+    <string name="try_again">Please Try Again</string>
+    <string name="not_load">Results could not be loaded</string>
+    <string name="no_result">No results found</string>
+</resources>
